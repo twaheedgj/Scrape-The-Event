@@ -173,7 +173,6 @@ Thumbs.db
 
 # Screenshots or images that might be generated
 screenshots/
-*.png
 *.jpg
 *.jpeg
 *.gif
