@@ -20,7 +20,7 @@ A desktop application built with **Python**, **Selenium**, and **Tkinter** to sc
 
 ## 📸 Screenshot
 
-![LinkedIn Scraper GUI](screenshot.png)
+![LinkedIn Scraper GUI](linkedin.png)
 
 ---
 
@@ -41,8 +41,8 @@ A desktop application built with **Python**, **Selenium**, and **Tkinter** to sc
 ### 1. Clone the repo or download the `.zip`
 
 ```bash
-git clone https://github.com/your-repo/linkedin-event-scraper.git
-cd linkedin-event-scraper
+git clone https://github.com/twaheedgj/Scrape-The-Event.git
+cd Scrape-The-Event
 ```
 
 ### 2. Create a virtual environment (recommended)
@@ -65,7 +65,7 @@ python -m venv venv
 ### 4. Install Dependencies
 
 ```bash
-pip install selenium webdriver-manager beautifulsoup4
+pip install -r requirements.txt
 ```
 
 ### 5. Run the App
